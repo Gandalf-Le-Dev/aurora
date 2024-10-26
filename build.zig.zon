@@ -1,0 +1,14 @@
+.{
+    .name = "aurora",
+    .version = "0.0.1",
+    .paths = .{
+        "src/api/",
+        "src/aurora.zig",
+        "src/colors.zig",
+        "src/styles.zig",
+        "src/utils.zig",
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+    },
+}
