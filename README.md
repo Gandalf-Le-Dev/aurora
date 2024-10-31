@@ -1,6 +1,6 @@
 # aurora
 
-A Terminal string styling for zig.
+A comptime terminal string styling library for zig.
 
 > [!NOTE]
 > This repository is heavily inspired by [tr1ckydev/chameleon](https://github.com/tr1ckydev/chameleon).
